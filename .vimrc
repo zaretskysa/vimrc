@@ -24,14 +24,12 @@ Bundle 'Shougo/vimshell.vim'
 Bundle 'Shougo/vimproc.vim'
 Bundle 'airblade/vim-gitgutter'
 Bundle 'terryma/vim-multiple-cursors'
-
-" The bundles you install will be listed here
-Bundle 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
+Bundle 'bling/vim-airline'
 
 filetype plugin indent on
 
-" The rest of your config follows here
-" Powerline setup
+" air-line  setup
+let g:airline_powerline_fonts = 1
 " set guifont=DejaVu\ Sans\ Mono\ for\ Powerline\ 9
 set laststatus=2
 set t_Co=256

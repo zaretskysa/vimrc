@@ -23,6 +23,7 @@ Bundle 'tpope/vim-surround'
 Bundle 'Shougo/vimshell.vim'
 Bundle 'Shougo/vimproc.vim'
 Bundle 'airblade/vim-gitgutter'
+Bundle 'terryma/vim-multiple-cursors'
 
 " The bundles you install will be listed here
 Bundle 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}

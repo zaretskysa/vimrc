@@ -54,6 +54,8 @@ set listchars=tab:»\ ,eol:⁋,trail:‧
 " automatically change window's cwd to file's dir
 " set autochdir
 
+:set incsearch
+
 " I'm prefer spaces to tabs
 set tabstop=4
 set shiftwidth=4

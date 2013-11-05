@@ -66,3 +66,5 @@ set nobackup
 set nowritebackup
 set noswapfile
 
+set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.pyc,*.Pbeam,*.beam
+

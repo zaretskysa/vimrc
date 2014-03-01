@@ -45,6 +45,8 @@ set number
 let g:solarized_termcolors=256 
 set background=dark
 colorscheme kolor
+" fix bracket highlightning
+hi MatchParen cterm=bold ctermbg=none ctermfg=magenta
 
 " Use <leader>l to toggle display of whitespace
 nmap <leader>l :set list!<CR>

@@ -57,6 +57,7 @@ set listchars=tab:»\ ,eol:⁋,trail:‧
 " set autochdir
 
 :set incsearch
+:set hlsearch
 
 " I'm prefer spaces to tabs
 set tabstop=4

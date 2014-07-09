@@ -73,3 +73,6 @@ set noswapfile
 
 set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.pyc,*.Pbeam,*.beam,*.hi,*.o
 
+" exit also on Q
+:command Q q
+

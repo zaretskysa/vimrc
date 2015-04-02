@@ -51,7 +51,7 @@ hi MatchParen cterm=bold ctermbg=none ctermfg=magenta
 " Use <leader>l to toggle display of whitespace
 nmap <leader>l :set list!<CR>
 " And set some nice chars to do it with
-set listchars=tab:»\ ,eol:⁋,trail:‧
+"set listchars=tab:»\ ,eol:⁋,trail:‧
 
 " automatically change window's cwd to file's dir
 " set autochdir

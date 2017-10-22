@@ -29,6 +29,8 @@ Bundle 'yegappan/grep'
 Bundle 'mileszs/ack.vim'
 Bundle 'vim-scripts/nerdtree-ack'
 Bundle 'https://github.com/rosenfeld/conque-term'
+Bundle 'https://github.com/inkarkat/vim-ingo-library'
+Bundle 'https://github.com/inkarkat/vim-mark'
 
 filetype plugin indent on
 

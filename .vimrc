@@ -25,6 +25,10 @@ Bundle 'tpope/vim-surround'
 Bundle 'airblade/vim-gitgutter'
 Bundle 'terryma/vim-multiple-cursors'
 Bundle 'bling/vim-airline'
+Bundle 'yegappan/grep'
+Bundle 'mileszs/ack.vim'
+Bundle 'vim-scripts/nerdtree-ack'
+Bundle 'https://github.com/rosenfeld/conque-term'
 
 filetype plugin indent on
 
